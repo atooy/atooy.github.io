@@ -1,5 +1,5 @@
 body {
-    background-image: url(imgs/bg.png)
+    background-image: url("imgs/bg.png")
 }
 #title {
     text-align: center;
